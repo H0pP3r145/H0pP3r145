@@ -4,7 +4,7 @@
             alt="Typing SVG" /></a>
 </h1>
 
-<h3 align="center"> Socials </h3>
+<h3 align="center"> My socials </h3>
     <p align="center"> <a href="https://discord.com/users/H0pP3r#5519" target="_blank" rel="noreferrer"><img
                 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg"
                 width="32" height="32" /></a> <a href="https://www.github.com/H0pP3r145" target="_blank"
