@@ -16,7 +16,6 @@
                 width="32" height="32" /></a> <a href="http://www.instagram.com/dima14585" target="_blank"
             rel="noreferrer"><img src="telegram.png" width="32" height="32" /></a></p>
 </h5>
-<br>
 <hr>
 <p align="center">
 <p align="left">
