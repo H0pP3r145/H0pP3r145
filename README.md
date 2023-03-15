@@ -28,7 +28,9 @@
     👨‍💻 My GitHub profile is where I show my love for 💻 HTML, 🎨 CSS and 🧪 JavaScript, 🔥 Golang, ⚛️ React and 🖖
     Vue.js, and where I showcase my skills in creating beautiful and functional websites. 🚀 Here you'll find my
     fascinating projects to help you improve your skills, and my many repositories where I store my best ideas. 💡 </p>
-  
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+
 ### 🧐 More About Me:
 
 * 🚀 I'm currently working on My new startup (but it's a secret)
