@@ -16,7 +16,7 @@
                 width="32" height="32" /></a> <a href="https://pinterest.com/H0pP3r_design_2021" target="_blank"
             rel="noreferrer"><img
                 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg"
-                width="32" height="32" /></a> <a href="http://www.instagram.com/dima14585" target="_blank"
+                width="32" height="32" /></a> <a href="https://t.me/H0pP3r" target="_blank"
             rel="noreferrer"><img src="telegram.png" width="32" height="32" /></a></p>
 <hr>
 <p align="center">
