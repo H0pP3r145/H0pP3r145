@@ -39,7 +39,7 @@
 * 👨🏻‍💻 Most of my projects are available on Github
 * 💬 Ask me anything tech related, I'm happy to help
 * 📝 Check out my resume
-* ✉️  You can contact me at [dimamicrosows145@ya.ru](mailto:dimamicrosows145@ya.ru)
+* ✉️  You can contact me at [dmitry@h0pp3r.tech](mailto:dmitry@h0pp3r.tech)
 * 🧠  I'm learning I'm currently learning a micro service application architecture for one of my new startups (but it's a secret😉)
 * ⚡  I'm working on one startup (yes, yes, there's AI there), and, just in confidence, it will turn the understanding of marketing and brand promotion upside down (only quietly😉)
 
