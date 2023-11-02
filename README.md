@@ -35,7 +35,7 @@
 ### 🧐 More About Me:
 
 * 🚀 I'm currently working on My new startup (but it's a secret)
-* 🌱 I am currently learning microservices architecture
+* 🌱 I am currently exploring the structures of fault-tolerant high load projects. 
 * 👨🏻‍💻  Most of my repositories on Github are made for kids (for the soul, I moonlight as a web development teacher✌)
 * 💬 Ask me anything tech related, I'm happy to help
 * 📝 Check out my resume
